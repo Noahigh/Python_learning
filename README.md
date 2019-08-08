@@ -8,7 +8,7 @@
 *  `SIMPLE`
 *  `BETTER`
 *  `NOW`
-
+*  `GO`
 
 
 ## The Zen of Python, by Tim Peters
